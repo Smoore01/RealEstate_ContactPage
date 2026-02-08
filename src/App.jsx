@@ -5,6 +5,7 @@ import Footer from './components/Footer'
 import Navbar from './components/NavBar'
 
 
+
 function App() {
   
   return (
@@ -12,6 +13,7 @@ function App() {
    <Navbar/>
    <ContactForm/>
      <Footer/>
+ 
     </>
   )
 }
